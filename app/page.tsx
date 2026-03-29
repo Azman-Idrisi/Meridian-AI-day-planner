@@ -383,7 +383,7 @@ export default function Home() {
                 />
               </svg>
             </div>
-            <span className="text-sm font-medium text-white/40">focusly</span>
+            <span className="text-sm font-medium text-white/40">Meridian</span>
           </div>
           <AuthButton />
         </div>
