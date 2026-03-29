@@ -342,7 +342,7 @@ export default function Home() {
               </svg>
             </div>
             <span className="text-sm font-medium text-white/40 tracking-wide">
-            Meridian
+              Meridian
             </span>
           </div>
           <AuthButton />
@@ -350,7 +350,7 @@ export default function Home() {
 
         {/* Two col */}
         <div className="flex flex-1">
-          <div className="w-1/2 border-r border-white/[0.06] px-10 lg:px-14 py-14 flex flex-col justify-center">
+          <div className="w-1/2 border-r  border-white/[0.06] px-10 lg:px-14 py-14 flex flex-col justify-center">
             <PlanPanel />
           </div>
           <div className="w-1/2 px-10 lg:px-14 py-14 flex flex-col overflow-hidden">
